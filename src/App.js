@@ -1,13 +1,13 @@
  import React from 'react'
-import Main from './Components/Main'
-// import Main2 from './Components/Main2'
+// import Main from './Components/Main'
+import Main2 from './Components/Main2'
  
  function App() {
    return (
      <div>
 
-      <Main />
-      {/* <Main2 /> */}
+      {/* <Main /> */}
+      <Main2 />
      </div>
    )
  }
